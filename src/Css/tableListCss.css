@@ -1,0 +1,25 @@
+.App {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+table {
+  margin: 10px;
+  border: 1px solid black;
+  border-top: 4px solid;
+  
+  height: 200px;
+}
+  
+th {
+ border-left:1px solid;
+ width: 10%;
+}
+  
+td {
+  border-top: 1px solid;
+  border-left: 1px solid;
+  text-align: center;
+}
